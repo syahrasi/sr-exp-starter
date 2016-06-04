@@ -1,0 +1,14 @@
+{
+  "name": "simple-starter",
+  "version": "1.0.0",
+  "description": "Simple starter setup",
+  "main": "./src/index.html",
+  "scripts": {
+    "dev": "lite-server -c bs-config.json"
+  },
+  "author": "syahrasi@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.2.0"
+  }
+}
